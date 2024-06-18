@@ -1,5 +1,4 @@
 import matplotlib.pyplot as plt
-import numpy as np
 
 def heapify(arr, n, i, bars, sound_manager):
     largest = i
